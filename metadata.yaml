@@ -24,6 +24,8 @@ description: '"Michael Faraday''s celebrated series of lectures, The Chemical Hi
   and was a classic work of Victorian popular science. They also reflect how Faraday,
   the bookbinder''s apprentice turned scientist, was a remarkable communicator of
   science.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14474#The-Chemical-History-of-a-Candle
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2004-12-26'
 gutenberg_type: Text
