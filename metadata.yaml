@@ -1,0 +1,41 @@
+_repo: The-Chemical-History-of-a-Candle_14474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faraday, Michael
+    alias: Faraday, M. (Michael)
+    birthdate: 1791
+    deathdate: 1867
+    gutenberg_agent_id: '5541'
+    url: http://www.gutenberg.org/2009/agents/5541
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Faraday
+  editor:
+    agent_name: Crookes, William, Sir
+    birthdate: 1832
+    deathdate: 1919
+    gutenberg_agent_id: '5544'
+    url: http://www.gutenberg.org/2009/agents/5544
+    wikipedia: http://en.wikipedia.org/wiki/William_Crookes
+description: '"Michael Faraday''s celebrated series of lectures, The Chemical History
+  of a Candle, turned into one of the most successful science books ever published
+  and was a classic work of Victorian popular science. They also reflect how Faraday,
+  the bookbinder''s apprentice turned scientist, was a remarkable communicator of
+  science.'
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2004-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry'
+- !lcsh 'Candles'
+title: The Chemical History of a Candle
+url: http://www.gutenberg.org/ebooks/14474
